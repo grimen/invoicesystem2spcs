@@ -15,7 +15,7 @@ REQUIREMENTS:
     
   From thi implementation:
     
-    * SPCSImplementation.dll
+    * SPCS.dll
     * InvoiceSystem2SPCSBridge.dll
     * InvoiceSystem.dll
     
