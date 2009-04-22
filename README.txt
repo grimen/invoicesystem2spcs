@@ -18,9 +18,9 @@ REQUIREMENTS:
     * SPCSImplementation.dll
     * InvoiceSystem2SPCSBridge.dll
     * InvoiceSystem.dll
-
+    
 NOTES:
   
   * No unit/functional testing, but basic sample programs testing with dummy data, but it should very well.
   * Code contains instructions to COM-enable the libraries for use with older versions of ASP, but never tested this thoroughly - *should* work.
-    
+  
